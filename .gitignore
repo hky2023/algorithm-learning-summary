@@ -1,0 +1,9 @@
+# VS Code workspace settings
+.vscode/
+
+# Build outputs
+output/
+*.exe
+
+# Practice folder
+practice/
