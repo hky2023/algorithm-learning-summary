@@ -1,0 +1,11 @@
+//线性基就是可以通过建造一个基数组
+//这个数组一般是base[60]表示longlong二进制长度
+//有性质如下base[i]中的数字最高位就是i位置
+//用处，
+//1.快速寻找能否使用一个数组中的子序列中异或和等于k
+//2.tanxin快速寻找数组中子序列最大异或和
+//3.tanxin寻找数组中子序列最小异或和
+//4.求第k小的异或和值
+//等等
+//这里有一个blog讲的特别好
+//https://blog.csdn.net/a_forever_dream/article/details/83654397?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522187f819a99d0f82d302dcb852807eb1d%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=187f819a99d0f82d302dcb852807eb1d&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-83654397-null-null.142^v102^control&utm_term=%E7%BA%BF%E6%80%A7%E5%9F%BA&spm=1018.2226.3001.4187
