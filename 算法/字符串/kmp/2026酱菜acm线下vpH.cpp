@@ -1,0 +1,1 @@
+//https://codeforces.com/group/3phdu3ZGLS/contest/680387/attachments/download/27688/HNCPC2024-sol.pdf
