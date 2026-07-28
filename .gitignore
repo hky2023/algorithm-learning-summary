@@ -1,5 +1,6 @@
 # VS Code workspace settings
 .vscode/
+.cph/
 
 # Build outputs
 output/
